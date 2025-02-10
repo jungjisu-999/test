@@ -7,3 +7,5 @@ commit (-m)
 checkout
 push (-u origin main)
 config --list
+fetch
+pull
