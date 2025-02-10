@@ -5,3 +5,5 @@ config (이메일, 유저명 등록. 1회만 하면됨)
 add
 commit (-m)
 checkout
+push (-u origin main)
+config --list
